@@ -9,7 +9,7 @@ function generateRandomString(length) {
   
 describe('Yuzee SignUp', () => {
   
-  const serverID = "lyjmmkrx";
+  const serverID = "SERVERID";
   const emailDomain = `@${serverID}.mailosaur.net`;
   
   const randomString = generateRandomString(4);
